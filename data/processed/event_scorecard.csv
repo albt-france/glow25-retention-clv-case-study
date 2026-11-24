@@ -1,0 +1,9 @@
+event_id,event,planted,found_by_sql,decision,handled_correctly
+1,Attributed vs incremental revenue,"education 22 % incremental, replenishment 61 %","education 22% (+/- 12%), replenishment 74% (+/- 25%)","Yes: invest in replenishment, not in more education emails",True
+2,Replenishment reminder too early,day 26 + branch: +4.1 pts on 60-day repurchase,+4.6 pts (+/- 1.3),Yes: roll out day 26 + branch,True
+3,January false signal (do NOT scale),flow effect = 0; January lifts everyone,lapsed reorders +31% Jan vs Dec; flow 3.7% vs holdout 4.1%,"Yes: not scaled, re-test in March",True
+4,Every-3-months plan: retention vs margin,retention 58 % vs 41 %; CM-CLV about -9 %,retention 59% vs 40%; CM-CLV -6%,"Yes: lead with skip / swap on the monthly plan, no deeper discount",True
+5,Price increase and -30 % win-back,"FR / IT 'too expensive' x2; -30 % offer: 18 % return, negative margin","FR x2.4, IT x1.6, DE x1.0; return 18% vs 13%, CM / recipient -1.95 EUR (+/- 3.77)","Yes: stop the -30 % offer, test an upgrade pack",True
+6,Loyalty self-selection,"naive +42 %, matched +7 %","naive +42%, matched +10%","Yes: programme kept, its value restated",True
+7,Apple MPP opens,machine opens from Sep 2025; subject test 'won' on opens,open rate 43% -> 61% (30% machine); B opens 62.9% vs 59.3% but clicks 2.98% vs 3.59%,Yes: tests judged on clicks and revenue per recipient,True
+8,Data issues,"2,300 duplicate profiles; skips counted as churn; UTC month slip","2,300 duplicates; churn 7.4% vs naive 11.9%; 2.5% of subscription orders slip month","Yes: fixed in 01_staging.sql, tested in 99_tests.sql",True

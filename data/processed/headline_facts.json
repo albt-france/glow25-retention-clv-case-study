@@ -1,0 +1,200 @@
+{
+ "public": {
+  "catalogue_products": 29,
+  "subscribable_products": 8,
+  "not_subscribable_products": 21,
+  "plan_discounts": [
+   "Lieferung alle 3 Monate: -25%",
+   "Monatliche Lieferung: -15%"
+  ],
+  "recharge_app_ids": [
+   "294517"
+  ],
+  "subscribable_prices": {
+   "Glow25 Balance – Darmbalance Kapseln": 34.99,
+   "Glow25 Kollagen Intensiv Sticks": 49.99,
+   "Glow25 Kollagen Pulver: Deutschlands Nr. 1 mit Vitamin C": 29.99,
+   "Glow25 Kollagen Plus": 39.99,
+   "Glow25 Kollagen Plus Typ Strawberry": 39.99,
+   "Glow25 Kollagen Plus Typ Lemon": 39.99,
+   "Glow25 Kollagen Intensiv Trinkampullen": 59.99,
+   "Glow25 Energy: Energie-Pulver mit Kreatin": 34.99
+  },
+  "trial_packs": [
+   {
+    "handle": "kollagen-plus-probierpaket-225g",
+    "price_eur": 19.99,
+    "subscribable": false
+   },
+   {
+    "handle": "kollagen-original-probierpaket-225g",
+    "price_eur": 14.99,
+    "subscribable": false
+   },
+   {
+    "handle": "kollagen-plus-strawberry-probierpaket-225g",
+    "price_eur": 19.99,
+    "subscribable": false
+   }
+  ],
+  "free_items": 2,
+  "bundles": 11,
+  "markets_hreflang": [
+   "BE",
+   "DE",
+   "ES",
+   "FR",
+   "GB",
+   "IT",
+   "NL"
+  ],
+  "locales_hreflang": 14,
+  "articles_per_domain": 120,
+  "domains_with_articles": 7,
+  "authorised_collagen_claims_en": 6,
+  "eurostat_supplements_f25_54": {
+   "AT": 32.09,
+   "BE": 28.56,
+   "DE": 28.56,
+   "ES": 17.42,
+   "FR": 11.77,
+   "IT": 14.29,
+   "NL": 31.12
+  },
+  "eurostat_beauty_f25_54": {
+   "AT": 33.17,
+   "BE": 33.86,
+   "DE": 34.35,
+   "ES": 34.68,
+   "FR": 29.14,
+   "IT": 21.05,
+   "NL": 50.89
+  },
+  "eurostat_updated": "2026-04-17T11:00:00+0200",
+  "eurostat_status_flags": 0,
+  "wiki_jan_over_jul": {
+   "de.wikipedia": 1.45,
+   "es.wikipedia": 1.34,
+   "fr.wikipedia": 2.16,
+   "it.wikipedia": 2.03,
+   "nl.wikipedia": 2.07
+  },
+  "wiki_jan_over_dec": {
+   "de.wikipedia": 1.25,
+   "es.wikipedia": 1.22,
+   "fr.wikipedia": 1.2,
+   "it.wikipedia": 1.42,
+   "nl.wikipedia": 1.32
+  },
+  "open_jobs": 5,
+  "job_published": "2026-11-20T13:58",
+  "uci_customers": 5878,
+  "uci_invoices": 36969,
+  "uci_repeat_share": 0.72388568,
+  "uci_rows_raw": 1067371,
+  "uci_rows_kept": 779425,
+  "uci_backtest_error_bgnbd": -0.1807284366915219,
+  "uci_backtest_error_empirical": -0.2215650082779733,
+  "stated": [
+   {
+    "text": "Deutschlands Nr. 1",
+    "where": "product title of the collagen powder on glow25.de (de-de), read 2026-11-24",
+    "url": "https://glow25.de/de-de/products/kollagen-pulver-mit-vitamin-c"
+   },
+   {
+    "text": "Vertraut von über 2,5 Million Frauen",
+    "where": "meta description of the home page glow25.de (de-de), read 2026-11-24",
+    "url": "https://glow25.de/de-de"
+   },
+   {
+    "text": "one of Europe's fastest-growing collagen brands",
+    "where": "job posting on Ashby, read 2026-11-24",
+    "url": "https://jobs.ashbyhq.com/glow25/ebca5cfb-5f0d-4df9-aa5e-f86feb048a11"
+   }
+  ]
+ },
+ "sim": {
+  "customers": 120000,
+  "orders": 348294,
+  "net_revenue_eur": 13485270.219999999,
+  "cm_eur": 7636177.66,
+  "cm_rate": 0.5662606336708618,
+  "repurchase": {
+   "30": 0.21984049,
+   "60": 0.37905942,
+   "90": 0.43630057,
+   "180": 0.48100966,
+   "365": 0.54089243
+  },
+  "edu_attributed_all": 301948.33,
+  "edu_attributed": 292849.63,
+  "edu_incremental": 63463.088,
+  "edu_incremental_ci": 35121.047,
+  "edu_share": 0.21670879,
+  "edu_share_ci": 0.1199286,
+  "rep_attributed_all": 191135.61,
+  "rep_attributed": 167131.86,
+  "rep_incremental": 123782.49,
+  "rep_share": 0.74062774,
+  "rep_share_ci": 0.24763315,
+  "j21": 0.51479391,
+  "j26": 0.56078329,
+  "j_hold": 0.49557522,
+  "j_diff_ci": 0.012807897536908487,
+  "j21_click": 0.060574772,
+  "j26_click": 0.10891132,
+  "gap_median": 34.0,
+  "gap_mode": 32.0,
+  "gap_before21": 0.015925308,
+  "jan_lapsed_dec": 0.028451031,
+  "jan_lapsed_jan": 0.037186953,
+  "jan_treated": 0.037486546,
+  "jan_holdout": 0.040843656,
+  "jan_diff_ci": 0.0074517356,
+  "ret_m": 0.40352093,
+  "ret_q": 0.58725263,
+  "cmclv_m": 157.64259,
+  "cmclv_q": 148.0797,
+  "skip_q": 0.15043106,
+  "skip_m": 0.033013401,
+  "save_t": 0.29592334,
+  "save_h": 0.075623492,
+  "te_ratio": {
+   "DE": 1.0199588087102722,
+   "FR": 2.420472901129141,
+   "IT": 1.5899405424045436,
+   "other": 0.9701601251724099
+  },
+  "wb30_ret_t": 0.18035516,
+  "wb30_ret_h": 0.12682927,
+  "wb30_cm_t": 8.1400333,
+  "wb30_cm_h": 10.09322,
+  "wb30_cm_ci": 3.7686364722502743,
+  "loy_naive": 0.41883323,
+  "loy_matched": 0.10270859,
+  "mpp_open_before": 0.43263898,
+  "mpp_open_after": 0.61373394,
+  "mpp_share": 0.30213878,
+  "click_before": 0.044259082,
+  "click_after": 0.039531963,
+  "sl_open_a": 0.59261679,
+  "sl_open_b": 0.62898457,
+  "sl_click_a": 0.035935969,
+  "sl_click_b": 0.029751455,
+  "sl_rpr_a": 1.0300649,
+  "sl_rpr_b": 1.1683775,
+  "sl_rpr_ci": 0.091578426,
+  "dup_profiles": 2300,
+  "churn_naive": 0.11909239,
+  "churn_true": 0.074243362,
+  "utc_slip_share": 0.02545756,
+  "fr_rpr_adapted": 1.9046686,
+  "fr_rpr_translated": 1.3720682,
+  "fr_unsub_adapted": 0.010401548,
+  "fr_unsub_translated": 0.017639752,
+  "fr_rpr_ci": 0.6370932724433406,
+  "vip_rpr_diff": 0.44840066,
+  "vip_rpr_ci": 2.9821559,
+  "vip_n": 1214
+ }
+}

@@ -1,0 +1,13 @@
+period_created,cancel_reason,cancellations
+after,too_expensive,715
+after,have_too_much,495
+after,not_for_me,392
+after,other,353
+after,switching_brand,237
+after,payment_failed,87
+before,too_expensive,2903
+before,have_too_much,2110
+before,not_for_me,1855
+before,other,1561
+before,switching_brand,1204
+before,payment_failed,687

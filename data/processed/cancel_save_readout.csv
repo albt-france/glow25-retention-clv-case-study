@@ -1,0 +1,3 @@
+arm,cancel_intents,save_rate,save_rate_ci95
+holdout (plain cancel page),1243,0.075623492,0.01469851
+skip / swap / pause offered,12314,0.29592334,0.0080622466

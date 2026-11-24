@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+data/sim/
+data/_hidden_truth.csv
+PREPA_CANDIDATURE.md

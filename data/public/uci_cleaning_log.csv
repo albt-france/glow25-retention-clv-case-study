@@ -1,0 +1,9 @@
+step,rows
+rows in both sheets,1067371
+exact duplicate rows dropped,34335
+returns (invoice starting with C),19104
+missing Customer ID,235151
+price or quantity <= 0,25122
+rows kept,779425
+invoices kept,36969
+licence,CC BY 4.0

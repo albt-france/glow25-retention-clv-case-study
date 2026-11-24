@@ -1,0 +1,3 @@
+file,line,status,rule,sentence
+copy/01_welcome.md,16,PASS,"authorised claim, verbatim (check the product contains vitamin C at a significant level)","Our powder contains vitamin C, and vitamin C contributes to normal collagen formation for the normal function of skin."
+copy/01_welcome.md,67,PASS,"authorised claim, verbatim (check the product contains vitamin C at a significant level)","Bon à savoir : notre poudre contient de la vitamine C, et la vitamine C contribue à la formation normale de collagène pour assurer la fonction normale de la peau."

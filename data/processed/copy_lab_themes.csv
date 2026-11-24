@@ -1,0 +1,7 @@
+cancel_reason,n,theme,insight,action,share,data
+too_expensive,3618,Price,"The price, not the product, is the issue",change the delivery rhythm,0.28716564806730693,SIMULATED (Brand G)
+have_too_much,2605,Too much product at home,Customers stockpile when deliveries outrun use,skip a delivery,0.20676244146360823,SIMULATED (Brand G)
+not_for_me,2247,Taste or format,The format does not fit the morning,swap flavour or format,0.17834748789586474,SIMULATED (Brand G)
+other,1914,Other,Mixed reasons,pause for up to 3 months,0.15191681879514246,SIMULATED (Brand G)
+switching_brand,1441,Competitor,Customer compares offers,remind what the subscription includes,0.11437415667910152,SIMULATED (Brand G)
+payment_failed,774,Payment failed,"Involuntary churn, not a decision",update payment details,0.06143344709897611,SIMULATED (Brand G)

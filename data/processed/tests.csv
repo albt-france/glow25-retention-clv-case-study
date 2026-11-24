@@ -1,0 +1,9 @@
+test,passed
+no duplicate customer after staging (one canonical id per email_hash),True
+every order belongs to a canonical customer,True
+skipped charges are never counted as cancellations (a skipped subscription can stay active),True
+"contribution margin = gross - discount - COGS - shipping - fees - refunds (every order, 1 cent)",True
+CM waterfall adds up,True
+"holdout share of customers is 10 % +/- 0.5 pt in every flow with 2,000+ customers",True
+Berlin time is never before UTC time,True
+order totals match the source table,True

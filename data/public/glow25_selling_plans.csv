@@ -1,0 +1,17 @@
+handle,app_id,plan_name,adjustment_type,adjustment_value
+glow25-balance,294517,Monatliche Lieferung,percentage,15
+glow25-balance,294517,Lieferung alle 3 Monate,percentage,25
+kollagen-intensiv,294517,Monatliche Lieferung,percentage,15
+kollagen-intensiv,294517,Lieferung alle 3 Monate,percentage,25
+kollagen-pulver-mit-vitamin-c,294517,Monatliche Lieferung,percentage,15
+kollagen-pulver-mit-vitamin-c,294517,Lieferung alle 3 Monate,percentage,25
+glow25-kollagen-plus,294517,Monatliche Lieferung,percentage,15
+glow25-kollagen-plus,294517,Lieferung alle 3 Monate,percentage,25
+glow-25-kollagen-plus-strawberry,294517,Monatliche Lieferung,percentage,15
+glow-25-kollagen-plus-strawberry,294517,Lieferung alle 3 Monate,percentage,25
+glow-25-kollagen-plus-typ-lemon,294517,Monatliche Lieferung,percentage,15
+glow-25-kollagen-plus-typ-lemon,294517,Lieferung alle 3 Monate,percentage,25
+glow25-kollagen-trinkampullen,294517,Monatliche Lieferung,percentage,15
+glow25-kollagen-trinkampullen,294517,Lieferung alle 3 Monate,percentage,25
+glow25-energy-pulver,294517,Monatliche Lieferung,percentage,15
+glow25-energy-pulver,294517,Lieferung alle 3 Monate,percentage,25

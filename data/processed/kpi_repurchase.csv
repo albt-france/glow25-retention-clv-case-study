@@ -1,0 +1,41 @@
+segment,n_days,customers,repurchase_rate
+all,30,115229,0.21984049
+all,60,110761,0.37905942
+all,90,106665,0.43630057
+all,180,92942,0.48100966
+all,365,55377,0.54089243
+first order: one-off ampoules,30,3694,0.096101787
+first order: one-off ampoules,60,3539,0.37270415
+first order: one-off ampoules,90,3396,0.40135453
+first order: one-off ampoules,180,2982,0.43963783
+first order: one-off ampoules,365,1782,0.49943883
+first order: one-off capsules,30,3723,0.087563793
+first order: one-off capsules,60,3574,0.38836038
+first order: one-off capsules,90,3446,0.41990714
+first order: one-off capsules,180,3038,0.46247531
+first order: one-off capsules,365,1790,0.52681564
+first order: one-off cosmetic,30,8551,0.023506023
+first order: one-off cosmetic,60,8213,0.067088762
+first order: one-off cosmetic,90,7871,0.25676534
+first order: one-off cosmetic,180,6880,0.32514535
+first order: one-off cosmetic,365,4116,0.40719145
+first order: one-off powder,30,39435,0.091213389
+first order: one-off powder,60,37922,0.37933126
+first order: one-off powder,90,36555,0.4063466
+first order: one-off powder,180,31840,0.45235553
+first order: one-off powder,365,18910,0.51131676
+first order: one-off sticks,30,4610,0.088286334
+first order: one-off sticks,60,4439,0.3870241
+first order: one-off sticks,90,4277,0.4171148
+first order: one-off sticks,180,3714,0.45584276
+first order: one-off sticks,365,2200,0.52045455
+first order: subscription,30,12271,0.49881835
+first order: subscription,60,11792,0.53536296
+first order: subscription,90,11367,0.76308613
+first order: subscription,180,9902,0.81246213
+first order: subscription,365,5930,0.84333895
+first order: trial pack / bundle,30,42945,0.33356619
+first order: trial pack / bundle,60,41282,0.39511167
+first order: trial pack / bundle,90,39753,0.4124217
+first order: trial pack / bundle,180,34586,0.45139652
+first order: trial pack / bundle,365,20649,0.51474648

@@ -1,0 +1,7 @@
+check_name,value
+duplicate profiles (same email_hash),2300.0
+orders sitting on a duplicate profile,8920.0
+subscription orders whose UTC month differs from the Berlin month,3501.0
+share of subscription orders that slip month,0.02545756
+"monthly subscription churn, skipped counted as cancelled (naive)",0.11909239
+"monthly subscription churn, cancellations only (correct)",0.074243362

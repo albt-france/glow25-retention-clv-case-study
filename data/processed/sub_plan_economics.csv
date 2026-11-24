@@ -1,0 +1,3 @@
+interval,subscriptions,retention_12m,cm_clv_12m_eur,revenue_12m_eur,paid_charges_12m,cm_per_paid_charge,skip_rate_per_scheduled_charge,swaps_per_sub
+1M,7214,0.40352093,157.64259,278.31145,7.3580538,20.096627,0.033013401,0.068200721
+3M,3891,0.58725263,148.0797,265.39971,3.1999486,45.867677,0.15043106,0.057311745

@@ -1,0 +1,4 @@
+method,purchases_jul_nov_2011,revenue_jul_nov_2011_gbp,error_vs_actual,customers,data
+"BG/NBD + Gamma-Gamma (fitted, scipy)",6408.545256818847,3105500.0258684577,-0.18072843669152194,5041,"PUBLIC DATA (UCI Online Retail II, UK online retailer, method demo)"
+Empirical chain ladder (cohort averages),,2950706.450944445,-0.22156500827797332,5041,"PUBLIC DATA (UCI Online Retail II, UK online retailer, method demo)"
+Actual (what happened),6636.0,3790562.452,0.0,5041,"PUBLIC DATA (UCI Online Retail II, UK online retailer, method demo)"

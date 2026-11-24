@@ -1,0 +1,9 @@
+market,period,too_expensive_cancellations,active_sub_months,per_1000_active
+DE,Oct 2025 - Mar 2026 (before),473.0,25750.0,18.368932
+DE,Apr - Sep 2026 (after +10 %),689.0,36775.0,18.735554
+FR,Oct 2025 - Mar 2026 (before),47.0,2731.0,17.209813
+FR,Apr - Sep 2026 (after +10 %),161.0,3865.0,41.655886
+IT,Oct 2025 - Mar 2026 (before),57.0,2215.0,25.733634
+IT,Apr - Sep 2026 (after +10 %),127.0,3104.0,40.914948
+other,Oct 2025 - Mar 2026 (before),387.0,21779.0,17.769411
+other,Apr - Sep 2026 (after +10 %),539.0,31266.0,17.239174

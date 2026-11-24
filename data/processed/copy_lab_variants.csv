@@ -1,0 +1,31 @@
+cancel_reason,theme,subject_line,origin,claims_check,human_validated
+too_expensive,Price,Before you go: change the delivery rhythm instead?,template,PASS,False
+too_expensive,Price,"Your subscription, your rhythm: change the delivery rhythm",template,PASS,False
+too_expensive,Price,One click to change the delivery rhythm,template,PASS,False
+too_expensive,Price,"Not cancelling, just change the delivery rhythm?",template,PASS,False
+too_expensive,Price,Price? You can change the delivery rhythm today,template,PASS,False
+too_expensive,Price,We kept it simple: change the delivery rhythm in two clicks,template,PASS,False
+have_too_much,Too much product at home,Before you go: skip a delivery instead?,template,PASS,False
+have_too_much,Too much product at home,"Your subscription, your rhythm: skip a delivery",template,PASS,False
+have_too_much,Too much product at home,One click to skip a delivery,template,PASS,False
+have_too_much,Too much product at home,"Not cancelling, just skip a delivery?",template,PASS,False
+have_too_much,Too much product at home,Too much product at home? You can skip a delivery today,template,PASS,False
+have_too_much,Too much product at home,We kept it simple: skip a delivery in two clicks,template,PASS,False
+not_for_me,Taste or format,Before you go: swap flavour or format instead?,template,PASS,False
+not_for_me,Taste or format,"Your subscription, your rhythm: swap flavour or format",template,PASS,False
+not_for_me,Taste or format,One click to swap flavour or format,template,PASS,False
+not_for_me,Taste or format,"Not cancelling, just swap flavour or format?",template,PASS,False
+not_for_me,Taste or format,Taste or format? You can swap flavour or format today,template,PASS,False
+not_for_me,Taste or format,We kept it simple: swap flavour or format in two clicks,template,PASS,False
+other,Other,Before you go: pause for up to 3 months instead?,template,PASS,False
+other,Other,"Your subscription, your rhythm: pause for up to 3 months",template,PASS,False
+other,Other,One click to pause for up to 3 months,template,PASS,False
+other,Other,"Not cancelling, just pause for up to 3 months?",template,PASS,False
+other,Other,Other? You can pause for up to 3 months today,template,PASS,False
+other,Other,We kept it simple: pause for up to 3 months in two clicks,template,PASS,False
+switching_brand,Competitor,Before you go: remind what the subscription includes instead?,template,PASS,False
+switching_brand,Competitor,"Your subscription, your rhythm: remind what the subscription includes",template,PASS,False
+switching_brand,Competitor,One click to remind what the subscription includes,template,PASS,False
+switching_brand,Competitor,"Not cancelling, just remind what the subscription includes?",template,PASS,False
+switching_brand,Competitor,Competitor? You can remind what the subscription includes today,template,PASS,False
+switching_brand,Competitor,We kept it simple: remind what the subscription includes in two clicks,template,PASS,False
